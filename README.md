@@ -1,10 +1,10 @@
 # Integrantes Organización DevelopersFive - demo-repository
 
-- JOSÉ ALEXÁNDER MURILLO JIMÉNEZ **- Administradora de Base de Datos -**
+- JOSÉ ALEXÁNDER MURILLO JIMÉNEZ **- Administrador Base de Datos -**
 
 - FABIÁN ANDRÉS BORRERO MONTAÑO **- Desarrollador FrontEnd -**
 
-- IVONE CATHERINE RODRÍGUEZ MACÍAS **- Administradora de Base de Datos -**
+- IVONE CATHERINE RODRÍGUEZ MACÍAS **- Administradora Base de Datos -**
 
 - ALEXÁNDER MOLINA CASALLAS **- Desarrollador BackEnd -**
 
