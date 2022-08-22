@@ -1,4 +1,4 @@
-# Integrantes Organización DevelopersFive - demo-repository
+# Integrantes Organización DevelopersFive - One-project
 
 - JOSÉ ALEXÁNDER MURILLO JIMÉNEZ **- Administrador Base de Datos -**
 
